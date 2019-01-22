@@ -1,0 +1,16 @@
+C:\Users\alyssa\Desktop\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\bin\Debug\ShippingProject.exe.config
+C:\Users\alyssa\Desktop\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\bin\Debug\ShippingProject.exe
+C:\Users\alyssa\Desktop\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\bin\Debug\ShippingProject.pdb
+C:\Users\alyssa\Desktop\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\obj\Debug\ShippingProject.Form1.resources
+C:\Users\alyssa\Desktop\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\obj\Debug\ShippingProject.Properties.Resources.resources
+C:\Users\alyssa\Desktop\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\obj\Debug\ShippingProject.csproj.GenerateResource.Cache
+C:\Users\alyssa\Desktop\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\obj\Debug\ShippingProject.exe
+C:\Users\alyssa\Desktop\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\obj\Debug\ShippingProject.pdb
+C:\Users\alyssa\Dropbox\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\bin\Debug\ShippingProject.exe.config
+C:\Users\alyssa\Dropbox\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\obj\Debug\ShippingProject.exe
+C:\Users\alyssa\Dropbox\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\obj\Debug\ShippingProject.pdb
+C:\Users\alyssa\Dropbox\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\bin\Debug\ShippingProject.exe
+C:\Users\alyssa\Dropbox\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\bin\Debug\ShippingProject.pdb
+C:\Users\alyssa\Dropbox\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\obj\Debug\ShippingProject.Form1.resources
+C:\Users\alyssa\Dropbox\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\obj\Debug\ShippingProject.Properties.Resources.resources
+C:\Users\alyssa\Dropbox\CIS 144\Project 3\InventoryProjectForm\ShippingProject\ShippingProject\obj\Debug\ShippingProject.csproj.GenerateResource.Cache
